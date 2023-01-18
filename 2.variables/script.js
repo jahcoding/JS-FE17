@@ -108,8 +108,8 @@ let namePropmt = prompt('Ismingiz nima?')
 let surnamePropmt = prompt('Ismingiz nima?')
 let agePropmt = prompt('Ismingiz nima?')
 
-let user = {}
+let user2 = {}
 
-user.name = 'some'
+user2.name = 'some'
 
-console.log(resultConfirm)
+console.log(user2)
