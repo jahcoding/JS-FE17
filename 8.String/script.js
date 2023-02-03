@@ -49,12 +49,12 @@
 // console.log(str.trim());
 
 //toLowercase
-let str = 'OPEN WEB'
-console.log(str.toLowerCase());
+// let str = 'OPEN WEB'
+// console.log(str.toLowerCase());
 
 //toUpperCase
-let str = 'open web Academy'
-console.log(str.toUpperCase());
+// let str = 'open web Academy'
+// console.log(str.toUpperCase());
 
 
 //Uyga Vazifa !!!
@@ -65,4 +65,5 @@ console.log(str.toUpperCase());
 // So'zni birinchi harfini bosh harf qiluvchi funksiya yozish
 //3 function getCardNum(str){}
 // /Karta raqamini tekshiradigan funksiya yozish
+
 
