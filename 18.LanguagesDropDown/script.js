@@ -38,6 +38,9 @@ langs.forEach(langItem => {
 	})
 })
 
+
+
+
 window.addEventListener('click', (e) => {
 	if(!e.target.parentElement.classList.contains('language')){
 		closeDropdown()
