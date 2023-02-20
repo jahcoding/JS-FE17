@@ -63,7 +63,7 @@ function showTime(){
 	box.innerText = date
 }
 
-setInterval(() =>{
-	showTime()
-}, 1000)
+// setInterval(() =>{
+// 	showTime()
+// }, 1000)
 

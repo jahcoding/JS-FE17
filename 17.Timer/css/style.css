@@ -1,0 +1,34 @@
+body{
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	row-gap: 50px;
+	justify-content: center;
+	width: 100%;
+	height: 100vh;
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	background-color: #212121;
+	font-family: monospace;
+	color: white;
+
+}
+
+.wrapper{
+	display: flex;
+	column-gap: 25px;
+	width: max-content;
+	height: max-content;
+}
+
+.wrapper div{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 220px;
+	height: 250px;
+	background-color: rgb(250, 250, 158);
+	color: black;
+	font-size: 96px;
+}
